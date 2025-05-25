@@ -2,7 +2,7 @@
 This repository contains scripts to reproduce the numerical results analysis described in "[skscope: Fast Sparsity-Constrained Optimization in Python](https://www.jmlr.org/papers/volume25/23-1574/23-1574.pdf)". 
 A step-by-step instruction for reproducing is provided here.
 
-## instruction
+## Instruction
 
 We compare algorithms in ``skscope`` and other well-known methods under several models. Here are the steps for reproducing Table-A3, similar to others.
 
